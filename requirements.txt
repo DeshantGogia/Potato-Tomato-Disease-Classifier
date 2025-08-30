@@ -1,0 +1,7 @@
+numpy -- 1.23.5
+matplotlib
+tensorflow -- 2.10.0
+python 3.10.18
+tensorflow-directml-plugin==0.4.0.dev230202
+streamlit -- 1.49.0
+fastapi -- 0.116.1
