@@ -5,7 +5,8 @@ Tomato Plant Categories = ['Tomato_Bacterial_spot', 'Tomato_Early_blight', 'Toma
 
 Used Data Augmentation, Convolutional Layers and Max Pooling to perform the model training.
 
-Interface = <img width="386" height="703" alt="Screenshot 2025-09-01 153405" src="https://github.com/user-attachments/assets/107e197e-b262-47b1-b76e-309003536655" />
+Interface
+ <img width="386" height="703" alt="Screenshot 2025-09-01 153405" src="https://github.com/user-attachments/assets/107e197e-b262-47b1-b76e-309003536655" />
 
 <img width="387" height="709" alt="Screenshot 2025-09-01 153459" src="https://github.com/user-attachments/assets/3e3473d6-d146-4ee4-9285-6f8233387292" />
 
